@@ -1,0 +1,14 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Bb]uild/
+/UserSettings/
+**/.DS_Store
+*.sln
+*.slnx
+*.csproj
+/.idea/
+**/*.sln.DotSettings.user
+/.vs/
+/.vsconfig
